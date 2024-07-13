@@ -1,0 +1,8 @@
+# Ignorar archivos .pyc generados por Python
+*.pyc
+
+# Ignorar directorios __pycache__ generados por Python
+__pycache__/
+
+# Ignorar archivo .DS_Store generado por macOS
+.DS_Store
